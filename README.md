@@ -19,4 +19,4 @@
 Clone the repository and open `index.html` to view and interact with the blog posts or submit a new one.
 
 ## Demo
-[View Live Project](#)
+[View Live Project](https://fluffy-alfajores-a88e71.netlify.app/)
