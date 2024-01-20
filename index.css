@@ -1,0 +1,53 @@
+:root {
+    font-size: 36px;
+}
+
+body {
+    font-family: 'Karla', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    margin: 0 auto;
+    max-width: 920px;
+}
+
+nav {
+    background-color: beige;
+    padding: 0.25em;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+}
+
+nav h3 {
+    margin: 0;
+}
+
+#blog-list {
+    padding: 0 0.5em;
+}
+
+form {
+    padding: 4em 0.5em 0.5em;
+    display: grid;
+    background-color: lightblue;
+}
+
+input#post-title, textarea#post-body {
+    margin-bottom: 0.25em;
+}
+
+.post {
+    border-bottom: 2px solid #282828;
+}
+
+button {
+    margin: 0.5em 0;
+    padding: 0.25em;
+    font-size: 1.25rem;
+    cursor: pointer;
+}
